@@ -1,10 +1,12 @@
-# Oi! Eu sou o Yuri :)
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriXbr&layout=compact&langs_count=8&card_width=320" />
-</a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YuriXbr&show_icons=true&hide_rank=true" />
-</a>
+<h1 align="center">
+  <a href="https://github.com/YuriXbr">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=500&lines=Oi!+Eu+sou+o+Yuri+%3A)" alt="Typing SVG" />
+  </a>
+</h1>
+<p>
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=YuriXbr&show_icons=true&theme=tokyonight&hide_rank=true" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriXbr&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
