@@ -27,12 +27,13 @@
 
   ## 
 ### Sobre
-👤 19 Anos; morando em Pelotas-RS; Apaixonado por programação desde criança </br>
-📚 Estudante do curso Técnico de Eletrônica no IFSUL câmpus Pelotas (07/08) </br>
+👤 19 Aanos, morando em Pelotas-RS; Apaixonado por programação desde criança </br>
+📚 Estudante do Curso Superior de Tecnologia e Sistemas para Internet no IFSUL câmpus Pelotas (01/06) </br>
+🧑‍🎓 Formando Curso Técnico de Eletrônica no IFSUL câmpus Pelotas (01/06) </br>
 📌 Atualmente estudando React e Mobile; e também Kotlin no IFSUL </br>
 💻 Interessado principalmente em WEB Dev & Back-End </br>
 🎮 Apaixonado por jogos e Game Design </br>
-📩 Aberto a propóstas de trabalho para Dev! </br>
+📩 Aberto a propostas de trabalho para Dev! </br>
 ##
 
 
